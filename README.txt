@@ -72,7 +72,7 @@ Requis : Max 8
 
 -Oscillator
 
-	OSC CTL pour activer l'oscillateur et le transfer de timbre	
+	OSC CTL pour activer l'oscillateur et le transfert de timbre	
 
 	Waveform pour affecter le timbre de simple à complexe
 
@@ -100,7 +100,7 @@ Requis : Max 8
 
 	Interface 2D pour se déplacer à travers la mémoire latente des modèles
 
-	Il doit être activer avec le bouton LAYER CTL sinon les valeurs ne sont pas affectés
+	Il doit être activé avec le bouton LAYER CTL sinon les valeurs ne sont pas affectées
 
 _____________________________________________________________________________________
 
