@@ -21,8 +21,7 @@ autour de plusieurs modules principaux :
 --Exemples de création musicale
 
 Akousmogram - zchrdy
-https://on.soundcloud.com/fBCBDai11LxTdNM78
-
+https://on.soundcloud.com/Miqz76phyfLVkQoDA
 
 
 --Installation
