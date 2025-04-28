@@ -22,6 +22,8 @@ autour de plusieurs modules principaux :
 
 Akousmogram - zchrdy
 https://on.soundcloud.com/Miqz76phyfLVkQoDA
+fragments - Mahault Sampy
+https://soundcloud.com/user-780346247/fragments?si=6105b72baabd4a59b6da8731a00c8093&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
 
 
 --Installation
