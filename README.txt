@@ -18,6 +18,11 @@ autour de plusieurs modules principaux :
 	• un contrôle de niveau de base (base level) garantissant une
 	activité sonore constante
 
+--Exemples de création musicale
+
+Akousmogram - zchrdy
+https://on.soundcloud.com/fBCBDai11LxTdNM78
+
 
 
 --Installation
